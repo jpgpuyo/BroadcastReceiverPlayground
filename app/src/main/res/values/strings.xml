@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BroadcastReceiverPlayground</string>
+    <string name="sendMessage">Write a message to broadcast!</string>
+    <string name="myBroadcastIntent">Broadcast an Intent now...</string>
+</resources>
